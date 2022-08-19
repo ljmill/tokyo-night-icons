@@ -1,2 +1,12 @@
-# tokyo-night-icons
-Beautiful icons themed in Tokyo Night
+## Installation
+Download `TokyoNight-SE.tar.bz2` archive from [Releases](https://github.com/ljmill/tokyo-night-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
+
+## Applying
+
+Set the `gtk-icon-theme-name` in `~/.config/gtk-3.0/settings.ini`:
+
+```ini
+gtk-icon-theme-name=TokyoNight-SE
+```
+
+or use a GTK theme manager such as [lxappearance](https://github.com/lxde/lxappearance). 
