@@ -1,5 +1,5 @@
 ## Installation
-Download `TokyoNight-SE.tar.bz2` archive from [Releases](https://github.com/ljmill/tokyo-night-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
+Download `TokyoNight-SE.tar.gz` archive from [Releases](https://github.com/ljmill/tokyo-night-icons/releases/) and extract into `~/.local/share/icons` or `/usr/share/icons`
 
 ## Applying
 
